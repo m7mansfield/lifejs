@@ -1,0 +1,2 @@
+# lifejs
+Game of Life
